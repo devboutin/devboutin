@@ -89,7 +89,7 @@ Me chamo Guilherme Boutin, tenho 21 anos e sou natural de Rio Branco do Sul. Atu
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=devboutin&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=devboutin&show_icons=true" />
 </picture>
